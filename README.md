@@ -10,4 +10,5 @@ How is it written?
 It was made with HTML5 where it was possible to make the structure of the page plus CSS3 giving a few small styles to the project
 
 How does it work?
+
 Thanks to some labels we can navigate between the pages knowing more about the singer Sam Smith
