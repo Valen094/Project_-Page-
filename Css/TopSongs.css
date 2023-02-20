@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+.List{
+    float: left;
+    text-align: left;
+}
+
+video{
+    margin: 0px 218px 40px 0px;
+}
+
+h1{
+    color: rgb(172, 115, 115);
+}
+
+h2{
+    font-size: 30px;
+}
