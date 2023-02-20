@@ -5,5 +5,8 @@ body{
 
 h1{
     color: rgb(172, 115, 115);
+}
 
+header a{
+    font-size: 50px;
 }
